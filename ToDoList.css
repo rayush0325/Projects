@@ -1,0 +1,38 @@
+form{
+    border:solid black;
+    margin : 5px;
+    padding:10px;
+    width:550px;
+}
+table{
+    margin : 5px;
+    width:550px;
+    border-collapse: collapse;
+}
+tr{
+    background-color: darkgray;
+    border:solid 3px white;
+}
+tr:hover{
+    background-color: brown;
+}
+td{
+    padding: 5px;
+    
+}
+button{
+    margin: 5px;
+}
+#listDesColm,#taskDesColm{
+    width : 65%;
+}
+#taskUpdateColm{
+    width:30%
+}
+.input{
+    width:75%;
+}
+.ADD,.change{
+    margin:5px;
+    width:100px;
+}
